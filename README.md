@@ -52,10 +52,13 @@ Grok 是 xAI 推出的 AI 助手，适合实时资讯问答、X 平台内容分�
 接下来输入账号 ID。
 
 ![Grok 充值页面输入账号 ID](https://pic1.imgdb.cn/item/6a1cfb696aa5b6be4f5f7d81.png)
-获取账号 ID 时，建议在浏览器中操作。也可以点击图中的超链接直接获取，前提是已经提前登录好要充值的账号。
+
+获取账号 ID 时，建议在浏览器中操作，访问地址：`https://grok.com/api/auth/session`。
+也可以点击图中的超链接直接获取，前提是已经提前登录好要充值的账号。
+
+![Grok 获取账号 ID 页面](https://pic1.imgdb.cn/item/6a342b1991b65c4475ae63aa.png)
 
 将获取到的 ID 粘贴到上方充值界面，点击确认账号信息。
-![Grok 充值确认账号信息页面](https://pic1.imgdb.cn/item/6a1cfd366aa5b6be4f5f7e14.png)
 
 
 确认下方账号信息没有问题后，直接点击确认充值即可。
