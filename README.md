@@ -181,6 +181,7 @@ SuperGrok 作用于 grok.com 对应的 Grok 账号，在 grok.com 网页和 Grok
 - [ChatGPT Plus 国内充值失败排查](https://github.com/Ai66Man/ChatGPT-Pay)
 - [Claude Pro 国内充值教程](https://github.com/Ai66Man/claude-pay)
 - [Grok Super 无法支付？微信充值开通教程](https://github.com/Ai66Man/grok-super-goplus)
+- [AI 订阅额度与价格对比表（含 SuperGrok）](https://ai66man.github.io/chatgpt-plus-sub/ai-subscription-price-compare.html)
 
 ## 总结
 
